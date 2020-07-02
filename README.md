@@ -19,3 +19,4 @@ The project is setup to publish its main jar, javadoc jar and source jar.
 Simply run `./gradlew publish`.
 
 If you want to be more selective, look at the available tasks with `./gradlew tasks`.
+
