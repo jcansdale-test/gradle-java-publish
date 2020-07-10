@@ -8,7 +8,7 @@ repositories {
 }
 
 group = "org.test.plain"
-version = "1.1-SNAPSHOT"
+version = "1.1-" + System.getenv("GITHUB_SHA")
 
 dependencies {
     api("org.apache.commons:commons-math3:3.6.1")
