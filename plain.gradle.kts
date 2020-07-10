@@ -8,7 +8,7 @@ repositories {
 }
 
 group = "org.test.plain"
-version = "5952becf"
+version = "123foobar"
 
 dependencies {
     api("org.apache.commons:commons-math3:3.6.1")
