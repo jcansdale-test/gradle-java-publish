@@ -7,7 +7,7 @@ repositories {
     jcenter()
 }
 
-group = "org.test.plain"
+group = "org.test.Plain"
 version = "1.1-SNAPSHOT"
 
 dependencies {
